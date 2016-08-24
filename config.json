@@ -1,0 +1,11 @@
+{
+  "main-module": "driver/AnalyticDriver.py",
+  "main-function": "driver",
+  "libs": [
+    "boto"
+  ],
+  "conda-libs": [
+    "numpy",
+    "scipy"
+  ]
+}

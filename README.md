@@ -1,2 +1,0 @@
-# python
-add two num
